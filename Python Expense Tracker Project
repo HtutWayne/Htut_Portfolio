@@ -1,0 +1,17 @@
+The Problem Statement and My Programme's Solution
+
+The Problem Statement: The problem with many people’s financial problem is that they cannot manage their expenses. Not only they cannot manage, but also, they cannot track or analyze how much they are spending on what area on both daily and monthly basic. It is also very time and energy consuming to write down each expense throughout the day and calculate their total spending amount timely based on their respective spending topics as day goes by, for days and months. Many people simply cannot follow this patter as it needs their attention of detail levels. These emotions, energy and time cost more than their actual spent money. So, they simply skipped tracking their expenses and never tracked them anymore. And they can never know how much they spent throughout the day and month and can never know how much they can still spend or are spending in the whole the day or month. They just cannot manage their expenses.
+
+My Solution: Thus, I am here to help with the expense tracking programme, called “the Expense Tracker.” What it is going to solve is it notes down your detail expenses with specific area of categories you have spent with specific amount on the specific day. I also show you the cumulative combined amount of how much you have spent throughout the day both in terms of categories and total amount for daily view and for monthly view, how much you have spent throughout the month with specific days you spent your money for. All you need to do is simply choose the category of choice and type the amount you have spent on the specific day. The rest is all upon the programme.
+
+How to use: First you have 5 choices of Menu to choose from,
+
+1.Add New Expense
+2.View Daily Expenses
+3.View Monthly Expenses
+4.Delete Expense
+5.Exit
+
+For each option, you have to type number and continue with exact instructions for each stage. 
+If you inputted wrong value, you will be redirected to the previous page which request you to input the exact values as per instructions. 
+You can simply exist the whole programme by typing 5 in the main menu pane.
